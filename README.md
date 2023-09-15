@@ -7,29 +7,34 @@ el sensor NeoPixel Meter este dispositivo combina la versatilidad de los LEDs Ne
 
 Estos LEDs tienen la capacidad de ser controlados de manera independiente, lo que significa que cada uno puede emitir un color diferente.
 
+## Partes 
+|                  | Partes                                                                                                                                        |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Neopixel Metet]r | QT Py RP2040 PDM Mic Mini Skinni NeoPixel Strip 144/meter Black LED Acrylic - Sheet  10-wire ribbon cable  Stemma QT Cable  M2.5 Hardware Kit |
+
 ## Características Destacadas
 
-### Visualización Dinámica de Datos
+- Visualización Dinámica de Datos
 
-### Alta Precisión y Sensibilidad
+- Alta Precisión y Sensibilidad
 
-### Compatibilidad con Plataformas de Desarrollo
+- Compatibilidad con Plataformas de Desarrollo
 
-### Personalizable y Programable
+- Personalizable y Programable
 
-### Interfaz Intuitiva
+- Interfaz Intuitiva
 
 ## Aplicaciones Potenciales
 
-### Monitoreo Ambiental
+- Monitoreo Ambiental
 
-### Seguimiento de Métricas de Salud
+- Seguimiento de Métricas de Salud
 
-### Automatización del Hogar
+- Automatización del Hogar
 
-### Educación y Aprendizaje Interactivo
+- Educación y Aprendizaje Interactivo
 
-### Proyectos de Arte y Entretenimiento
+- Proyectos de Arte y Entretenimiento
 
 ## Conclusión
 
