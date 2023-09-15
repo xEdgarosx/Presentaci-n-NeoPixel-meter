@@ -2,7 +2,7 @@
 
 ## Introducción
 
-el sensor NeoPixel Meter este dispositivo combina la versatilidad de los LEDs NeoPixel con capacidades avanzadas de medición, ofreciendo una solución potente y creativa para una amplia gama de aplicaciones.
+El sensor NeoPixel Meter este dispositivo combina la versatilidad de los LEDs NeoPixel con capacidades avanzadas de medición, ofreciendo una solución potente y creativa para una amplia gama de aplicaciones.
 ![neopixel meter](https://cdn-learn.adafruit.com/guides/cropped_images/000/003/512/medium640thumb/guide-thumb-horz.gif?1643490992)
 
 Estos LEDs tienen la capacidad de ser controlados de manera independiente, lo que significa que cada uno puede emitir un color diferente.
