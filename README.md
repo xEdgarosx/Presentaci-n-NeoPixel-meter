@@ -10,7 +10,7 @@ Estos LEDs tienen la capacidad de ser controlados de manera independiente, lo qu
 ## Partes 
 |                  | Partes                                                                                                                                        |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------:|
-| Neopixel Metet]r | QT Py RP2040 PDM Mic Mini Skinni NeoPixel Strip 144/meter Black LED Acrylic - Sheet  10-wire ribbon cable  Stemma QT Cable  M2.5 Hardware Kit |
+| Neopixel Metet]r | QT Py RP2040, PDM Mic, Mini Skinni NeoPixel, Strip 144/meter, Black LED Acrylic - Sheet, 10-wire ribbon cable, Stemma QT Cable, M2.5 Hardware Kit |
 
 ## Proyecto con NeoPixel
 ![](![image](https://github.com/xEdgarosx/xEdgarosx.github.io/assets/80359378/d196f743-3be9-44df-b6f5-001a2aee4f4d)
